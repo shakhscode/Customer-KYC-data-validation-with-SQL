@@ -23,7 +23,8 @@ Following is a snapshot of the relational data send to a database from a user we
 
 Most of the fields are directly entered by the customers during login and some other fields are system generated. Before analyzing the data it is important to make sure that data is correct.
 
-![Dataset](dataset.jpg)
+![dataset](https://user-images.githubusercontent.com/76909183/205445336-9a422aad-7aef-4cf2-a64b-dd01c90bb969.jpg)
+
 
 - Here, age is automatically calculated by the system when the user enters date of birth.
 - Civil score is determined based on the history of financial activities avaiable on the KYC documemt.
