@@ -1,8 +1,8 @@
 
 # Customer-KYC data validation with SQL
 ### Aim of the project
-- [Validating the data ingested to a database.](#1-problem-statement-1)
-- Manual validation of data types and data quality.
+- [Validation of data before analysis.](#1-problem-statement-1)
+- Manual validation of data quality and data cleaning.
 - Auto validation by creating PL-SQL triggers.
 
 ### Used tools
@@ -23,7 +23,7 @@ Following is a snapshot of the relational data send to a database from a user we
 
 Most of the fields are directly entered by the customers during login and some other fields are system generated. Before analyzing the data it is important to make sure that data is correct.
 
-![](dataSnap.jpg)
+
 
 - Here, age is automatically calculated by the system when the user enters date of birth.
 - Civil score is determined based on the history of financial activities avaiable on the KYC documemt.
