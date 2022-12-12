@@ -34,13 +34,13 @@ Validate the data to make sure that -
 
 - age is not less than 18, on the date of login.
 
-- There are no same email address for different customers.
+- There is no same email address for different customers.
 
 - Length of contact number should be 10 only.
 
 - Civil score should not more than 900 and less than 200.
 
-Check the above criteria and if any wrong data is found then remove it. Also create some triggers for validating the future data.
+Check the above criteria and if anything found wrong then remove it or flag it accordingly. Also create some triggers for validating the future data.
 
 ### 2. Manual Data Validation and Cleaning
 
