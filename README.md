@@ -16,10 +16,11 @@
 #### [1. Problem Statement](#1-problem-statement-1)
 #### [2. Manual Data Validation and Cleaning](#2-manual-data-validation-and-cleaning-1)
 #### [3. Auto Validation by Triggers](#3-auto-validation-by-triggers-1)
+***
 
 ### 1. Problem Statement
 
-Following is a snapshot of the relational data send to a database from a user website. This is the KYC data of the customers of a online credit agency.
+Following is a snapshot of the relational data ingested to a  database. This is the KYC data of the customers of a online credit agency.
 
 Most of the fields are directly entered by the customers during login and some other fields are system generated. Before analyzing the data it is important to make sure that data is correct.
 
@@ -37,14 +38,15 @@ Validate the data to make sure that -
 
 - Length of contact number should be 10 only.
 
-- Civil score is not more than 900.
+- Civil score should not more than 900 and less than 200.
 
 Check the above criteria and if any wrong data is found then remove it. Also create some triggers for validating the future data.
 
 ### 2. Manual Data Validation and Cleaning
 
-First check the criteria manually and if any thing is found wrong then then remove it.
+Let's  check each criteria manually and if any thing is found wrong then remove the entry or flag it as wrong.
 
+[Check the sql file](/dataValidation_and_cleaning.sql)
 
 ### 3. Auto Validation by Triggers
 
