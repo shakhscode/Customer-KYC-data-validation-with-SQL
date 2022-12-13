@@ -24,7 +24,8 @@ Following is a snapshot of the relational data ingested to a  database. This is 
 
 Most of the fields are directly entered by the customers during login and some other fields are system generated. Before analyzing the data it is important to make sure that data is correct.
 
-![View of the dataset](/dataSnap.jpg)
+![dataSnap](https://user-images.githubusercontent.com/76909183/207410298-1835325a-9ecc-4b87-aa1e-26cac41a72ca.jpg)
+
 
 
 Validate the data to make sure that -
