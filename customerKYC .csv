@@ -1,0 +1,16 @@
+CustomerId,Name,first_name,last_name,email_id,mobile_no,dob,Gender,KYC_document,civil_score,last_login_date_time
+1,Karim Avind ,Karim,Avind,petersko@verizon.net,8409369994,1995-07-12,Male,A,469,2022-12-12
+2,Jiyan Sharma,Jiyan,Sharma,balchen@att.net,8716516434,1994-07-13,Male,P,350,2022-12-12
+3,Pulok Mishra,Pulok,Mishra,kewley@outlook.com,8023885111,1999-07-14,Male,A,554,2022-12-12
+4,Mijan Ali,Mijan,Ali,manuals@hotmail.com,9002413100,2001-07-15,Male,P,885,2022-12-12
+5,Rahashir Avind,Rahashir,Avind,ideguy@optonline.net,8120118797,1995-07-16,Male,A,55,2022-12-12
+6,Benkat Sitaraman,Benkat,Sitaraman,madler@optonline.net,8903321679,1995-07-17,Male,A,305,2022-12-12
+7,Arav Viavn,Arav,Viavn,andersbr@icloud.com,8115498270,1995-07-18,Male,A,380,2022-12-12
+8,Timir Kunjalal,Timir,Kunjalal,tezbo@yahoo.com,8271679584,1991-07-19,Male,A,840,2022-12-12
+9,Sourav Sharma,Sourav,Sharma,osaru@live.com,8000847709,1995-07-20,Male,A,357,2022-12-12
+10,Bikram Purohit,Bikram,Purohit,zeller@gmail.com,8541751946,1985-07-21,Male,P,122,2022-12-12
+11,Pulkit Riyan,Pulkit,Riyan,fatelk@hotmail.com,8947776265,1997-07-22,Male,A,54,2022-12-12
+12,Liza Devi,Liza,Devi,squirrel@msn.com,8991087723,1995-07-23,Female,A,376,2022-12-12
+13,Subashree Das,Subashree,Das,sbsr1234@gmail.com,8277993187,1975-07-24,Female,P,202,2022-12-12
+14,Shakar Biswas,Shakar,Biswas,khuba@yahoo.com,8235707063,1993-07-25,Male,A,887,2022-12-12
+15,Rajan Purohit,Rajan,Purohit,rp562@gmail.com,8319541011,2012-07-26,Male,A,475,2022-12-12
