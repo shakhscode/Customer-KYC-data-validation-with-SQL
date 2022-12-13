@@ -30,7 +30,7 @@ Most of the fields are directly entered by the customers during login and some o
 
 Validate the data to make sure that -
 
-- age was not less than 18, on the date of login.
+- age was not less than 18, on the date of register.
 
 - There is no same email address for different customers.
 
@@ -46,7 +46,7 @@ Let's  check each criteria manually and if any thing is found wrong then remove 
 
 ### 3. Auto Validation by Triggers
 
-#### i) Create a trigger to stop the entry of a wrong age-
+#### i) Create a trigger to stop the entry with a wrong age
 - i.e. when the user enters date of birth it should not be a future date, 
 - And age on the sign up date should be minimum 18.
 
